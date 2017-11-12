@@ -1,0 +1,523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inpu",
+				"inpute	input - email"
+			],
+			[
+				"sec",
+				"section	Tag"
+			],
+			[
+				"foo",
+				"footer	<footer>"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"hee",
+				"header	Tag"
+			],
+			[
+				"action",
+				"actionCreate"
+			],
+			[
+				"substr",
+				"substr_compare"
+			],
+			[
+				"redire",
+				"redirect"
+			],
+			[
+				"Sp",
+				"Spgestion"
+			],
+			[
+				"redirec",
+				"redirected"
+			],
+			[
+				"subs",
+				"substr"
+			],
+			[
+				"mode",
+				"mode"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"valida",
+				"validate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/limbe/Desktop/ARDUINO.txt",
+			"settings":
+			{
+				"buffer_size": 882,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/limbe/Downloads/CCleaner.v5.13.5460.FREE.PRO.BUSINESS.TECH.Multilingual.With.Portable.Incl.Serial/Instrucciones.txt",
+			"settings":
+			{
+				"buffer_size": 2003,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/2015/repositorios/siagroyii"
+	],
+	"file_history":
+	[
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/2015/repositorios/siagroyii/controllers/SpgestionController.php",
+		"/D/2015/repositorios/siagroyii/siagroyii.sublime-project",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2/web/Session.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2-debug/panels/RequestPanel.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2/base/Application.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2/web/Request.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2-debug/LogTarget.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2/web/Response.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2/base/Action.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2/base/Controller.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2/base/Module.php",
+		"/D/2015/repositorios/siagroyii/vendor/yiisoft/yii2/web/Application.php",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/hola/index.php",
+		"/C/xampp/php/php.ini",
+		"/D/2015/repositorios/hello.html",
+		"/D/2015/repositorios/siagroyii/controllers/SiteController.php",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeLinter-php.sublime-package",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/2015/repositorios/siagroyii/controllers/SpeqtipoController.php",
+		"/D/2015/repositorios/siagroyii/web/css/site.css",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/E/unida c/httpd-vhosts.conf",
+		"/D/2015/repositorios/siagroyii/controllers/SpactividadController.php",
+		"/D/2015/repositorios/siagroyii/models/Sppersonal.php",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/D/2015/repositorios/siagroyii/controllers/SpitemobraController.php",
+		"/D/2015/repositorios/siagroyii/models/Spequipo.php",
+		"/D/2015/repositorios/siagroyii/controllers/SpequipoController.php",
+		"/D/2015/repositorios/siagroyii/models/Spactividad.php",
+		"/C/Users/limbe/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"session",
+			"session_start",
+			"codeintel_scan_files_in_project "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/limbe/Desktop/ARDUINO.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/limbe/Downloads/CCleaner.v5.13.5460.FREE.PRO.BUSINESS.TECH.Multilingual.With.Portable.Incl.Serial/Instrucciones.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								697,
+								697
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 256.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"output.xdebug":
+	{
+		"height": 86.0
+	},
+	"pinned_build_system": "",
+	"project": "siagroyii.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"17":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"35":
+				{
+					"group": 2,
+					"index": 1
+				},
+				"36":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"37":
+				{
+					"group": 2,
+					"index": 0
+				},
+				"38":
+				{
+					"group": 1,
+					"index": 1
+				},
+				"40":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
